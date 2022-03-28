@@ -1,18 +1,4 @@
-/* .btn {
-    bg-color: var(--bs-blue);
-  } */
-
-  /* :root {
-      --main-bg-color: #ffc107;
-      --primary
-  } */
-  
-  
-  /* .bg-light{
-      background-color: var(--bs-yellow: #ffc107)
-  }; */
-
-  .dynamic-content img {
+.dynamic-content img {
     width: 100%; 
   }
   .bg {

@@ -1,0 +1,57 @@
+/* .btn {
+    bg-color: var(--bs-blue);
+  } */
+
+  /* :root {
+      --main-bg-color: #ffc107;
+      --primary
+  } */
+  
+  
+  /* .bg-light{
+      background-color: var(--bs-yellow: #ffc107)
+  }; */
+
+  .dynamic-content img {
+    width: 100%; 
+  }
+  .bg {
+      background-color: #F3D59D;
+
+  }
+ 
+  nav ul li a{
+    background-color:#139CD3;
+    color: #E09709;
+}
+  nav ul li a:hover{
+      background-color: #E09709;
+      color: black;
+  }
+  .navbar{
+      background-color: #139CD3;
+  }
+
+  .bg-dark{
+      background-color: #E09709;
+  }
+.fab {
+    margin-left: 2rem;
+}
+
+@media only screen and (min-width: 960px){
+
+.dynamic-content img {
+    max-width: 25%; 
+    float: left;
+    clear: left; 
+    margin-right: 2rem;
+    margin-bottom: 2rem; 
+}
+
+
+
+
+
+}
+  
